@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-09-15T10:57:18.397-06:00
+  initializedAtString: 2019-09-15T10:48:36.987-06:00
+  log:
+  - commitID: 7978b7258e0942e7a08882047fc4f6d527e0f19a
+    mergeA: 
+    mergeB: 
+    authorName: User
+    authorEmail: User@DESKTOP-J3CUVOM
+    commitEmail: User@DESKTOP-J3CUVOM
+    commitName: User
+    summary: Add .gitignore and .gitattributes.
+    description: 
+    timeString: 2019-09-15T10:20:26.000-06:00
+    commitTimeString: 2019-09-15T10:20:26.000-06:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\User\Documents\GitHub\Hawthorne\Hawthorne\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: C:\Users\User\Documents\GitHub\Hawthorne\Hawthorne\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
